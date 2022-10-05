@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/parallax-react/static/css/main.1c4f8baa.css",
+    "main.js": "/parallax-react/static/js/main.0c2a39e3.js",
+    "static/media/passion.png": "/parallax-react/static/media/passion.7fc912b45fd9028c7abb.png",
+    "static/media/moonmoon.jpeg": "/parallax-react/static/media/moonmoon.5df932f4a41752fffd2c.jpeg",
+    "static/media/eatinerary.png": "/parallax-react/static/media/eatinerary.e0368678ef20722d68c8.png",
+    "static/media/keyboard.png": "/parallax-react/static/media/keyboard.164f98272379444b5042.png",
+    "static/media/Car.png": "/parallax-react/static/media/Car.be751c7b0e456cae39d4.png",
+    "static/media/eatCard.png": "/parallax-react/static/media/eatCard.a4d40ac4d8765e92d4f6.png",
+    "index.html": "/parallax-react/index.html",
+    "main.1c4f8baa.css.map": "/parallax-react/static/css/main.1c4f8baa.css.map",
+    "main.0c2a39e3.js.map": "/parallax-react/static/js/main.0c2a39e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c4f8baa.css",
+    "static/js/main.0c2a39e3.js"
+  ]
+}
