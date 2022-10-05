@@ -18,6 +18,6 @@ You may also see any lint errors in the console.
 
 My Porfolio Website
 
-![Top of Page](./parallax-react/src/images/page1.png)
-![Mid of Page](./parallax-react/src/images/page2.png)
-![Bot of Page](./parallax-react/src/images/page3.png)
+![Top of Page](./src/images/page1.png)
+![Mid of Page](./src/images/page2.png)
+![Bot of Page](./src/images/page3.png)
